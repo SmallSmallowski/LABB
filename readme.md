@@ -7,3 +7,4 @@ Grupa: 9
 Student: Radosław Rutkowski
 
 Witam :) (zedytowany tekst)
+jeszcze razdwa
